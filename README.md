@@ -1,2 +1,11 @@
 # walkthur2
-sample repo for walkthru 2 of fastai course
+
+## Introduction
+
+This is a sample repo for walkthru 2 of fastai course
+
+This is another paragraph. 
+
+Here's a list:
+-first
+-second
